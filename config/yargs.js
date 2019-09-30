@@ -10,7 +10,7 @@ const opts = {
 };
 
 const argv = require("yargs")
-  .command("list", "Print a times table on the screen", opts)
+  .command("list", "Print a times table on the console", opts)
   .command("create", "Create a times table file", opts)
   .help().argv;
 
