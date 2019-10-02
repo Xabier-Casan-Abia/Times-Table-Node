@@ -19,9 +19,6 @@ switch (command) {
       )
       .catch(error => console.log(error));
     break;
-  case "":
-    console.log(`Run "node app help"`);
-    break;
   default:
     console.log(`Command not recognised, please run  "node app help"`);
 }
