@@ -1,6 +1,6 @@
 ## Multiplication CLI App
 
-This is a simple Node App to generate Times Tables. It can create a file or print it on the console.
+This is a Times Tables generater CLI app using Node. It can create a file or print it on the console.
 
 ## Initialization
 
